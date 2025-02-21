@@ -1,8 +1,9 @@
-# iCloud.js 2.0
 *iCloud.js is an independent project, and is not affiliated, endorsed, recommended by or otherwise affiliated with Apple Inc.*
+# iCloud.js 2.0
 
 > [!IMPORTANT]
 > This version of iCloud.js isn't ready for general use
+> 
 > [➔ Back to v1](https://github.com/foxt/icloud.js)
 
 ![](./2-0.svg)
