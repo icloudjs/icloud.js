@@ -1,5 +1,7 @@
 {
-  "name": "icloudjs",
+  "name": "@icloud.js/monorepo",
+  "version": "0.0.0",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "build": "turbo run build",
@@ -18,7 +20,7 @@
   },
   "packageManager": "npm@10.9.2",
   "workspaces": [
-    "apps/*",
+    "examples/*",
     "packages/*"
   ]
 }
